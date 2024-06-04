@@ -1,3 +1,3 @@
 # Basic-JavaScript-
 I am practicing JavaScript here, nowadays.
-I have learned 3 chapters, <br> it's all about Arrays. <br> let's practice.
+I have learned 3 chapters, <br> It's all about Arrays now in chapter 4. <br> Let's practice.
